@@ -1,0 +1,120 @@
+{
+    "Code": 100000,
+    "Msg": "success",
+    "Data": {
+        "Auth_count": 6,
+        "Extra_count": 6,
+        "Auth_details": [
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "a.gtld-servers.net"
+                }
+            },
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "b.gtld-servers.net"
+                }
+            },
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "c.gtld-servers.net"
+                }
+            },
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "d.gtld-servers.net"
+                }
+            },
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "e.gtld-servers.net"
+                }
+            },
+            {
+                "Name": "com",
+                "Type": 2,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Name_server": "f.gtld-servers.net"
+                }
+            }
+        ],
+        "extra_details" : [
+            {
+                "Name": "a.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.5.6.30"
+                }
+            },
+            {
+                "Name": "b.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.33.14.30"
+                }
+            },
+            {
+                "Name": "c.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.26.92.30"
+                }
+            },
+            {
+                "Name": "d.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.31.80.30"
+                }
+            },
+            {
+                "Name": "e.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.12.94.30"
+                }
+            },
+            {
+                "Name": "f.gtld-servers.net",
+                "Type": 1,
+                "Class": 1,
+                "TTL": 172800,
+                "RData": {
+                    "Addr": "192.35.51.30"
+                }
+            }
+        ]
+    }
+}
